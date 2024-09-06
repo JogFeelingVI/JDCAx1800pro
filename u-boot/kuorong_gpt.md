@@ -58,6 +58,7 @@ b93b4823af2b4fc31d22c25468181e7a  -
 ```
 
 ### 刷写完毕，可以重启进入u-boot 刷写第三方op
+> ![overlay 2gb](../resx/overlay2gb.png)
 
 
 ### 参考链接
